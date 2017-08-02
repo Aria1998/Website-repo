@@ -37,6 +37,8 @@ background-size: cover;
  button {
  	background-color: white;
  	color: black;
+ 	width: 100px
+ 	height:100px;
  }
  #white-space {
   height:350px;
