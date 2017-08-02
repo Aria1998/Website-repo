@@ -3,6 +3,7 @@ h1 {
 	color:white;
 	text-align: center;
 	font-family: garamond;
+
 }
 h2 {
 	background-color: orange;
@@ -12,4 +13,9 @@ h2 {
 }
 button {
 	color: black;
+}
+body {
+background: url("http://static.tumblr.com/522225f8e91306a4ec872b957d8126ba/vhnr2zd/jcTneznta/tumblr_static_186c080xdqzkkgs8o84k4owsg.jpg");
+background-repeat: no-repeat;
+background-size: cover;
 }
