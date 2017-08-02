@@ -1,15 +1,26 @@
 h1 {
-	color: orange; font-family: sans-serif
+	color: orange; 
+	font-family: sans-serif
 }
 
 h2 {
-	color: orange; font-family: sans-serif
+	color: orange; 
+	font-family: sans-serif
 }
 
 h3 {
-	background-color: black; color: white; font-family:'garamond';
+	font-family:'garamond';
 }
 
 p {
-	font-family: sans-serif;
+  font-family: sans-serif;
+}
+
+body {
+		background-size: cover;
+	}
+
+img {
+	opacity: 0;
+	filter: alpha(opacity=0); 
 }
