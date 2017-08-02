@@ -6,6 +6,10 @@ h2 {
 	color: orange; font-family: sans-serif
 }
 
+h3 {
+	background-color: black; color: white; font-family:'garamond';
+}
+
 p {
 	font-family: sans-serif;
 }
