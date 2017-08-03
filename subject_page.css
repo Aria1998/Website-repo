@@ -1,0 +1,18 @@
+h1 {
+	color: orange; 
+	font-family: garamond;
+}
+
+h2 {
+	color: orange; 
+	font-family: garamond;
+}
+
+ul li {
+  font-family: garamond; 
+  font-color: white ;
+}
+
+body {
+		background-size: cover;
+	}
